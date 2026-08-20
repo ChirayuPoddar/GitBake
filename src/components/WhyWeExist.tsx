@@ -21,7 +21,7 @@ export default function WhyWeExist() {
       </div>
 
       <div className="mt-10 lg:col-span-6 lg:col-start-7 lg:mt-0">
-        <div className="relative bg-contain h-[530px] md:h-[80vh] lg:h-[530px] w-full lg:w-[410px] lg:my-25 overflow-hidden">
+        <div className="relative bg-contain h-[530px] md:h-[80vh] lg:h-[530px] w-full lg:w-[410px] lg:ml-25 overflow-hidden">
           <Image
             src="https://uxmagic.blob.core.windows.net/public/agent-images/gitbake-community-1787153748529-bd8p65d0mgu.png"
             alt="Two bakers sharing a handwritten recipe sheet in a warm bakery"
